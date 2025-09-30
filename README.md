@@ -91,13 +91,9 @@ Contributions welcome. Open an issue or submit a pull request for:
 - Improved preprocessing or power-simulation code
 - Tests or CI to reproduce results automatically
 
-Author: (your name or handle)
+Author: Vraj Shah
 
 ---
 
-Want help next?
 
-- I can add a minimal `requirements.txt`.
-- I can extract the notebook steps into a reproducible Python script.
-- I can add a `DATA.md` documenting schema and column definitions.
 
